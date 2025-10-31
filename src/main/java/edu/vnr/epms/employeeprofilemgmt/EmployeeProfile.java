@@ -17,5 +17,5 @@ public class EmployeeProfile {
     private String name;
     private String mobile;
     private String email;
-    private URL linkedinUrl;
+    private String linkedinUrl;
 }
