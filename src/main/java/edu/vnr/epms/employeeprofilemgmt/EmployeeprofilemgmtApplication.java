@@ -9,7 +9,7 @@ public class EmployeeprofilemgmtApplication {
 	public static void main(String[] args) {
 
         SpringApplication.run(EmployeeprofilemgmtApplication.class, args);
-        System.out.println("Tomcat Running employee..");
+        System.out.println("Tomcat Running employee management..");
 	}
 
 }
